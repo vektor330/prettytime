@@ -1,4 +1,5 @@
-package com.ecm.realpad.web.utils;
+package org.ocpsoft.prettytime.i18n;
+
 import java.util.ListResourceBundle;
 
 public class Resources_cs extends ListResourceBundle
